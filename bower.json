@@ -7,12 +7,6 @@
     "type": "git",
     "url": "https://github.com/a8m/angular-filter.git"
   },
-  "dependencies": {
-    "angular": "*"
-  },
-  "devDependencies": {
-    "angular-mocks": "*"
-  },
   "ignore": [
     "node_modules",
     "bower_components",
